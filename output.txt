@@ -1,8 +1,8 @@
 ------------------------------------------------------------- 
- Weather Stats for - MATARA  || 26 Jul 2021 | 08:38:33 PM
+ Weather Stats for - MATARA  || 26 Jul 2021 | 09:33:27 PM
  ------------------------------------------------------------- 
-Current temperature is: 26.39 deg C
+Current temperature is: 26.41 deg C
 Current weather desc  :,broken clouds 
 Current Humidity      :,86,% 
-Current wind speed    :,5.41,kmph 
+Current wind speed    :,5.08,kmph 
 ====================================================
